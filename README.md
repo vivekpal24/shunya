@@ -27,3 +27,30 @@ Stay updated with every event in real time! No need to ask anyone for schedules 
   Smooth, responsive design built using Flutter and Firebase backend.
 
 ---
+
+
+## 🛠️ Tech Stack
+
+- **Flutter** for Mobile UI  
+- **Firebase** for Authentication, Database & Storage  
+- **Cloud Firestore** for real-time updates  
+- **In-App Admin Panel** for data upload & event management  
+
+---
+
+## 👨‍💻 Author
+
+- **[Vivek Pal](https://github.com/vivekpal24)** – Developer & Designer  
+
+---
+
+## 🎯 About Shunya  
+Shunya is the annual sports & cultural fest of **IIIT Una**, celebrating athletic spirit, teamwork, and campus culture. This application is built to make the fest experience smoother and more connected.
+
+---
+
+## 📥 Installation  
+Clone the repository:
+
+```sh
+git clone https://github.com/vivekpal24/shunya.git
