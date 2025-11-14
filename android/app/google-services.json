@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585867154743",
+    "project_id": "shunya-defff",
+    "storage_bucket": "shunya-defff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585867154743:android:6d1cb13bc7024d27e436b2",
+        "android_client_info": {
+          "package_name": "com.harchani.asmita_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDg5uoQNqquxNjHzHzIFpvvayIzn8b6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
