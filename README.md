@@ -1,37 +1,29 @@
-# Asmita'20
+# 🟦 Shunya – IIIT Una Sports & Events App
 
-## Official mobile application of Asmita - Annual sports fest of IIIT Allahabad.
+## Official mobile application for Shunya – The Annual Sports & Cultural Fest of IIIT Una.
 
-Stay updated during the event! No need to ask anyone for updates!
-Keep fixtures, results sponsors/team details just one tap away. 
+Stay updated with every event in real time! No need to ask anyone for schedules or results — Shunya brings **fixtures, scores, event updates, and announcements** right into your hands.
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height=
-"80">](https://play.google.com/store/apps/details?id=com.harchani.asmita_flutter)
+---
 
-### Key features of the app includes:
+## ⭐ Key Features
 
-- Keeps you up to date with ongoing events.
-- You can check fixtures and results of any event right in your hand.
-- Notifies you about highlights/reschedulings.
-- You can contact organiser or team member through the app in case of queries.
-- You can also get details of the sponsers of the event.
+- 📢 **Live Event Updates**  
+  Stay informed about every sports and cultural event happening on campus.
 
-Here are some screenshots of app made in flutter.
+- 🏆 **Score & Results Tracking**  
+  View match scores, team standings, and event results instantly.
 
-![Events](screenshot1.png)
+- 📅 **Event Fixtures & Records**  
+  Access event schedules, match fixtures, and historical results anytime.
 
-![Team](screenshot2.png)
+- 🛠️ **Admin Dashboard (Inside the App)**  
+  Admins can post events, update scores, upload data, and manage information directly through the app.
 
-![Event Organisers](screenshot3.png)
+- 🔔 **Important Announcements**  
+  Notifications for last-minute changes, highlights, and rescheduled events.
 
-![Event Details](screenshot4.png)
+- 📱 **Clean Flutter UI**  
+  Smooth, responsive design built using Flutter and Firebase backend.
 
-![Sponsers](screenshot5.png)
-
-![Updates](screenshot6.png)
-
-### Authors
-- [Ritik Harchani](https://github.com/harchani-ritik)
-- [Shreyansh Sahu](https://github.com/23nobody)
-
-Designs of the mobile app made by [Sunidhi Kahsyap](https://www.behance.net/iit2018016065e)
+---
